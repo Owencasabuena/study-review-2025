@@ -2,8 +2,8 @@
 ## Data types and Operators
 ### Types of data types
 - Primitive data type
-  Primitive data types are the most basic types of data in Java. They store simple, single values like numbers, characters, or true/false      values. These are not objects and don't have built-in methods.
-  Examples of primitive data types in Java:
+  Primitive data types are the most basic types of data in Java. They store simple, single values like numbers, characters, or true/false      values. These are not objects and don't have built-in methods.\
+  Examples of primitive data types in Java:\
   * int – for whole numbers (e.g., 5, 100)
   * double – for decimal numbers (e.g., 3.14)
   * char – for single characters (e.g., 'A')
