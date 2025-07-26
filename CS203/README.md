@@ -1,5 +1,5 @@
 # Java
-### Data types and Operators
+### Data types
 #### Types of data types
 - Primitive data type
   Primitive data types are the most basic types of data in Java. They store simple, single values like numbers, characters, or true/false      values. These are not objects and don't have built-in methods.
@@ -19,7 +19,8 @@
   * Array – for collections of data (e.g., list of numbers)
   * Class – a custom data structure with attributes and methods
   * Interface – a blueprint for classes to follow
-  
+
+### Operators
 ### What is OOP?
 Object-oriented programming is a method used for designing a program using classes and objects.
 
