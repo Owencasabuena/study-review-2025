@@ -10,6 +10,9 @@
   * boolean – for true or false values
   * byte, short, long, float – other number types with different sizes
 - Non-primitive data type
+
+---
+
 ### What is OOP?
 Object-oriented programming is a method used for designing a program using classes and objects.
 
